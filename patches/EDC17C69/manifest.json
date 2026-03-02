@@ -1,0 +1,57 @@
+[
+  {
+    "sw": "015048",
+    "def": "defs/015048.json",
+    "map": "maps/015048.map"
+  },
+  {
+    "sw": "057708",
+    "def": "defs/057708.json",
+    "map": "maps/057708.map"
+  },
+  {
+    "sw": "523343",
+    "def": "defs/523343.json",
+    "map": "maps/523343.map"
+  },
+  {
+    "sw": "558230",
+    "def": "defs/558230.json",
+    "map": "maps/558230.map"
+  },
+  {
+    "sw": "558886",
+    "def": "defs/558886.json",
+    "map": "maps/558886.map"
+  },
+  {
+    "sw": "561187",
+    "def": "defs/561187.json",
+    "map": "maps/561187.map"
+  },
+  {
+    "sw": "563002",
+    "def": "defs/563002.json",
+    "map": "maps/563002.map"
+  },
+  {
+    "sw": "FRP6195000000",
+    "def": "defs/FRP6195000000.json",
+    "map": "maps/CAFRP950FRP9500010333344AA.map"
+  },
+  {
+    "sw": "FRQ6195000000",
+    "def": "defs/FRQ6195000000.json",
+    "map": "maps/CAFRQ950FRQ9500010363484AA.map"
+  },
+  {
+    "sw": "FRQ6197000000",
+    "def": "defs/FRQ6197000000.json",
+    "map": "maps/CAFRQ970FRQ9700010387737AA.map"
+  },
+  {
+    "sw": "FRQ61A5000000",
+    "def": "defs/FRQ61A5000000.json",
+    "map": "maps/CAFRQA50FRQA500010245541AA.map"
+  }
+]
