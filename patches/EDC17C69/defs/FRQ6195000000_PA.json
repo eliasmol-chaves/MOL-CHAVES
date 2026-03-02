@@ -1,0 +1,23 @@
+{
+    "SW": "FRQ6195000000 (PA)",
+    "PartNumber": "",
+    "ProdNumber": "AB39-14C204-PA",
+    "MapFile": "CAFRQ950FRQ9500010299785AA.map",
+    "Checks": [
+        {
+            "Offset": "200123",
+            "Value": "FRQ6195000000",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "200100",
+            "Value": "CAFRQ950FRQ9500010299785AA",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "276E58",
+            "Value": "AB39-14C204-PA",
+            "Type": "ASCII"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "SW": "FRPRRPT",
+    "PartNumber": "",
+    "ProdNumber": "EB3G-14C204-EHJ",
+    "MapFile": "CAFRL900FRL9000010425541AA.map",
+    "Checks": [
+        {
+            "Offset": "1AC2F0",
+            "Value": "FRPRRPT",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "20100",
+            "Value": "CAFRL900FRL9000010425541AA",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "2241D",
+            "Value": "EB3G-14C204-EHJ",
+            "Type": "ASCII"
+        }
+    ]
+}

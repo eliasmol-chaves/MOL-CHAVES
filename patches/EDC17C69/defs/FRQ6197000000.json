@@ -1,0 +1,23 @@
+{
+    "SW": "FRQ6197000000",
+    "PartNumber": "",
+    "ProdNumber": "AB39-12K532-FJK",
+    "MapFile": "CAFRQ970FRQ9700010387737AA.map",
+    "Checks": [
+        {
+            "Offset": "200123",
+            "Value": "FRQ6197000000",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "200100",
+            "Value": "CAFRQ970FRQ9700010387737AA",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "277194",
+            "Value": "AB39-12K532-FJK",
+            "Type": "ASCII"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "SW": "561186",
+    "PartNumber": "0281031204",
+    "ProdNumber": "55265162",
+    "MapFile": "561186.map",
+    "Checks": [
+        {
+            "Offset": "1E",
+            "Value": "561186",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "2001E",
+            "Value": "561186",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "20001E",
+            "Value": "561186",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "3EACBA",
+            "Value": "0281031204",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "3EACD8",
+            "Value": "55265162",
+            "Type": "ASCII"
+        }
+    ]
+}

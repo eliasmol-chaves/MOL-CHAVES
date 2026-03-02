@@ -1,0 +1,23 @@
+{
+    "SW": "057708",
+    "PartNumber": "0281031204",
+    "ProdNumber": "55265162",
+    "MapFile": "057708.map",
+    "Checks": [
+        {
+            "Offset": "1E",
+            "Value": "057708",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "3ECC26",
+            "Value": "0281031204",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "3ECC44",
+            "Value": "55265162",
+            "Type": "ASCII"
+        }
+    ]
+}

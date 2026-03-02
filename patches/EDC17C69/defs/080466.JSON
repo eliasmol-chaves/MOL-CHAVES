@@ -1,0 +1,23 @@
+{
+    "SW": "080466",
+    "PartNumber": "",
+    "ProdNumber": "",
+    "MapFile": "080466.map",
+    "Checks": [
+        {
+            "Offset": "1E",
+            "Value": "080466",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "2001E",
+            "Value": "080466",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "20001E",
+            "Value": "080466",
+            "Type": "ASCII"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "SW": "FRQ61A5000000",
+    "PartNumber": "",
+    "ProdNumber": "CC11-14C204-EUC",
+    "MapFile": "CAFRQA50FRQA500010245541AA.map",
+    "Checks": [
+        {
+            "Offset": "200123",
+            "Value": "FRQ61A5000000",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "200100",
+            "Value": "CAFRQA50FRQA500010245541AA",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "2783DC",
+            "Value": "CC11-14C204-EUC",
+            "Type": "ASCII"
+        }
+    ]
+}

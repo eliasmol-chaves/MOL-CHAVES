@@ -1,0 +1,13 @@
+{
+    "SW": "523343 (v2)",
+    "PartNumber": "",
+    "ProdNumber": "DH52-14C204-VA",
+    "MapFile": "523343.map",
+    "Checks": [
+        {
+            "Offset": "1E",
+            "Value": "523343",
+            "Type": "ASCII"
+        }
+    ]
+}

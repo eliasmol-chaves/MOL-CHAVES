@@ -1,0 +1,23 @@
+{
+    "SW": "563002",
+    "PartNumber": "",
+    "ProdNumber": "",
+    "MapFile": "563002.map",
+    "Checks": [
+        {
+            "Offset": "1E",
+            "Value": "563002",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "2001E",
+            "Value": "563002",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "20001E",
+            "Value": "563002",
+            "Type": "ASCII"
+        }
+    ]
+}
