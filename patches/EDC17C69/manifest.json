@@ -5,9 +5,14 @@
     "map": "maps/015048.map"
   },
   {
-    "sw": "057708",
-    "def": "defs/057708.json",
-    "map": "maps/057708.map"
+    "sw": "558886",
+    "def": "defs/558886.json",
+    "map": "maps/558886.map"
+  },
+  {
+    "sw": "074203",
+    "def": "defs/074203.json",
+    "map": "maps/074203.map"
   },
   {
     "sw": "080466",
