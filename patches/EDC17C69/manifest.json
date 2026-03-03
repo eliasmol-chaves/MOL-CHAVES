@@ -10,6 +10,16 @@
     "map": "maps/057708.map"
   },
   {
+    "sw": "080466",
+    "def": "defs/080466.JSON",
+    "map": "maps/080466.map"
+  },
+  {
+    "sw": "1037542100",
+    "def": "defs/1037542100.json",
+    "map": "maps/1037542100.map"
+  },
+  {
     "sw": "523343",
     "def": "defs/523343.json",
     "map": "maps/523343.map"
@@ -23,6 +33,11 @@
     "sw": "558886",
     "def": "defs/558886.json",
     "map": "maps/558886.map"
+  },
+  {
+    "sw": "561186",
+    "def": "defs/561186.json",
+    "map": "maps/561186.map"
   },
   {
     "sw": "561187",
@@ -43,6 +58,11 @@
     "sw": "FRQ6195000000",
     "def": "defs/FRQ6195000000.json",
     "map": "maps/CAFRQ950FRQ9500010363484AA.map"
+  },
+  {
+    "sw": "FRQ6195000000 (PA)",
+    "def": "defs/FRQ6195000000_PA.json",
+    "map": "maps/CAFRQ950FRQ9500010299785AA.map"
   },
   {
     "sw": "FRQ6197000000",
