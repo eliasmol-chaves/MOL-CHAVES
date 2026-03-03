@@ -1,4 +1,8 @@
-
+Relatório de Diferenças entre Arquivos
+=====================================
+Arquivo Original: Original:  (4194304 bytes)
+Arquivo Modificado: Modificado:  (4194304 bytes)
+Data: 03/03/2026 17:08:34
 
 Offset      Modificação
 ------      -----------
@@ -3966,3 +3970,4 @@ Offset      Modificação
 003E28DD     01 -> 00
 003E28DE     01 -> 00
 
+Total de diferenças: 3963
