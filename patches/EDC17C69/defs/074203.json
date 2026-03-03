@@ -21,12 +21,12 @@
         },
         {
             "Offset": "24001E",
-            "Value": "0281031204",
+            "Value": "074203",
             "Type": "ASCII"
         },
         {
             "Offset": "3ECC09",
-            "Value": "55265162",
+            "Value": "074203",
             "Type": "ASCII"
         }
     ]
