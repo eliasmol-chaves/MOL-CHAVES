@@ -10,6 +10,11 @@
     "map": "maps/558886.map"
   },
   {
+    "sw": "552755",
+    "def": "defs/552755.json",
+    "map": "maps/552755.map"
+  },
+  {
     "sw": "074203",
     "def": "defs/074203.json",
     "map": "maps/074203.map"
