@@ -10,13 +10,23 @@
             "Type": "ASCII"
         },
         {
-            "Offset": "3ECC26",
-            "Value": "0281031204",
+            "Offset": "2001E",
+            "Value": "057708",
             "Type": "ASCII"
         },
         {
-            "Offset": "3ECC44",
-            "Value": "55265162",
+            "Offset": "20001E",
+            "Value": "057708",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "24001E",
+            "Value": "057708",
+            "Type": "ASCII"
+        },
+        {
+            "Offset": "3ECC09",
+            "Value": "057708",
             "Type": "ASCII"
         }
     ]
