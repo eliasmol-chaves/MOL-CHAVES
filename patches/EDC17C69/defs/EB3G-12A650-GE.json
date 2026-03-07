@@ -2,9 +2,14 @@
     "SW": "EB3G-12A650-GE",
     "Hardware": "EB3A-12B684-DC",
     "Software": "EB3G-12A650-GE",
-    "Reference": "EB3G-14C204-EHJ",
     "MapFile": "EB3G-12A650-GE.map",
     "Checks": [
+        
+        {
+            "Offset": "E20",
+            "Value": "CONTI_SID209_FRK_460",
+            "Type": "ASCII"
+        },
         {
             "Offset": "E38",
             "Value": "EB3G-12A650-GE",
@@ -14,11 +19,7 @@
             "Offset": "2241D",
             "Value": "EB3G-14C204-EHJ",
             "Type": "ASCII"
-        },
-        {
-            "Offset": "E20",
-            "Value": "CONTI_SID209_FRK_460",
-            "Type": "ASCII"
         }
     ]
+
 }
