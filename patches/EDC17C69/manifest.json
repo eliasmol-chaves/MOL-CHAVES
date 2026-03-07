@@ -65,6 +65,11 @@
     "map": "maps/563002.map"
   },
   {
+    "sw": "EB3G-12A650-GE",
+    "def": "defs/EB3G-12A650-GE.json",
+    "map": "maps/EB3G-12A650-GE.map"
+  },
+  {
     "sw": "FRP6195000000",
     "def": "defs/FRP6195000000.json",
     "map": "maps/CAFRP950FRP9500010333344AA.map"
